@@ -1,3 +1,4 @@
 # JS_TranscricaoMovel_PTBR
 
-Necessário estar conectado a internet e recomendo o uso do browser Microsoft Edge para execução da aplicação
+Necessário estar conectado a internet<BR>
+Recomendável o uso do browser Microsoft Edge para execução da aplicação
